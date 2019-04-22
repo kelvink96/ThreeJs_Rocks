@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  height: 100vh; }
+
+canvas {
+  display: block; }
+
+.overlay {
+  background-color: black;
+  z-index: 5; }
+
+h1 {
+  color: black;
+  position: absolute;
+  top: 6em;
+  left: 1em;
+  font-size: 3em;
+  text-transform: uppercase;
+  width: auto;
+  line-height: 0.8em;
+  border: 0.08em solid black;
+  padding: 0.2em;
+  margin: 0 1em 0 0; }
+
+h5 {
+  color: black;
+  position: absolute;
+  left: 5em;
+  text-transform: uppercase;
+  width: auto;
+  line-height: 0.8em;
+  border: 0.08em solid black;
+  padding: 0.2em;
+  margin: 30em 1em 0 0; }
+
+/*# sourceMappingURL=index.css.map */
